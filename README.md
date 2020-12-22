@@ -1,1 +1,1 @@
-# Digit-Recognition
+# Text-Detection
